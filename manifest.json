@@ -1,13 +1,14 @@
 {
-  "latestVersion": "0.5.4",
-  "releaseTag": "v0.5.4",
-  "downloadUrl": "https://github.com/misael546/AI-Studio/releases/download/v0.5.4/AIStudio_v0.5.4_Setup.exe",
-  "sha256": "1376a4f6adfa6026ef7e0461e54a98e43d4c30f23902390f260dc500bd0aeed6",
+  "latestVersion": "0.5.5",
+  "releaseTag": "v0.5.5",
+  "downloadUrl": "https://github.com/misael546/AI-Studio/releases/download/v0.5.5/AIStudio_v0.5.5_Setup.exe",
+  "sha256": "e662e82ad845a39611ab4e22412e6678e6d2046e4fe5328395811a1536f1896b",
   "mandatory": false,
   "releaseNotes": [
-    "Versión interna actualizada a 0.5.4",
-    "Instalador Windows NSIS",
-    "Base preparada para actualización online",
-    "Update Center preparado para futuras actualizaciones"
+    "AI Studio v0.5.5",
+    "Actualización online desde Update Center",
+    "Descarga del instalador desde GitHub",
+    "Verificación SHA-256 antes de ejecutar la actualización",
+    "Mejoras en el sistema de actualización"
   ]
 }
